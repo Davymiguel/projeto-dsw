@@ -2,7 +2,7 @@
 
 Sistema web simples para **listar entregas** com filtros por status, data e destinatário.
 
-Este projeto faz parte da disciplina de Desenvolvimento de Software para Web, seguindo os requisitos definidos no repositório [dsw](https://github.com/delanohelio/dsw).
+Este projeto faz parte da disciplina de Desenvolvimento de Sistemas Web, do professor Delano Hélio, seguindo os requisitos definidos no repositório [dsw](https://github.com/delanohelio/dsw).
 
 ---
 
